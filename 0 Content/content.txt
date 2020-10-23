@@ -1,0 +1,14 @@
+Bio
+Agenda
+Measuring your changes
+Avoid repetition
+Use cmdlets & modules
+  - Group-, Measure-, Sort- ...
+  - ImportExcel
+    - Chart
+    - Colour-code
+Scale
+  - Get-View & ExtensionData
+Code improvement example
+  - Sample session
+Take aways
